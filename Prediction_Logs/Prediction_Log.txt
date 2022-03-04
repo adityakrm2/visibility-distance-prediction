@@ -1,0 +1,323 @@
+2020-02-15/15:59:27		Start of Validation on files for prediction!!
+2020-02-15/15:59:28		Raw Data Validation Complete!!
+2020-02-15/15:59:28		Starting Data Transforamtion!!
+2020-02-15/15:59:31		DataTransformation Completed!!!
+2020-02-15/15:59:32		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-15/15:59:36		Table creation Completed!!
+2020-02-15/15:59:36		Insertion of Data into Table started!!!!
+2020-02-15/16:06:50		Insertion in Table completed!!!
+2020-02-15/16:06:51		Deleting Good Data Folder!!!
+2020-02-15/16:06:56		Good_Data folder deleted!!!
+2020-02-15/16:06:56		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-15/16:06:57		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-15/16:06:58		Validation Operation completed!!
+2020-02-15/16:06:58		Extracting csv file from table
+2020-02-15/16:15:43		Start of Prediction
+2020-02-15/16:15:43		Entered the get_data method of the Data_Getter class
+2020-02-15/16:15:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-15/16:15:43		Entered the is_null_present method of the Preprocessor class
+2020-02-15/16:15:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-15/16:15:43		Entered the load_model method of the File_Operation class
+2020-02-15/16:15:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:15:45		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/16:15:45		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/16:15:46		Entered the load_model method of the File_Operation class
+2020-02-15/16:15:46		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:16:08		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/16:16:08		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/16:16:08		Entered the load_model method of the File_Operation class
+2020-02-15/16:16:08		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:16:08		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/16:16:08		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/16:16:08		Entered the load_model method of the File_Operation class
+2020-02-15/16:16:08		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:16:17		End of Prediction
+2020-02-15/16:20:28		Start of Prediction
+2020-02-15/16:20:28		Entered the get_data method of the Data_Getter class
+2020-02-15/16:20:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-15/16:20:28		Entered the is_null_present method of the Preprocessor class
+2020-02-15/16:20:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-15/16:20:31		Entered the load_model method of the File_Operation class
+2020-02-15/16:20:31		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:20:37		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/16:20:37		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/16:20:39		Entered the load_model method of the File_Operation class
+2020-02-15/16:20:39		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/16:20:53		End of Prediction
+2020-02-15/18:55:51		Start of Validation on files for prediction!!
+2020-02-15/18:55:51		Raw Data Validation Complete!!
+2020-02-15/18:55:51		Starting Data Transforamtion!!
+2020-02-15/18:55:52		DataTransformation Completed!!!
+2020-02-15/18:55:52		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-15/18:55:54		Table creation Completed!!
+2020-02-15/18:55:54		Insertion of Data into Table started!!!!
+2020-02-15/19:06:00		Insertion in Table completed!!!
+2020-02-15/19:06:00		Deleting Good Data Folder!!!
+2020-02-15/19:06:00		Good_Data folder deleted!!!
+2020-02-15/19:06:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-15/19:06:00		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-15/19:06:00		Validation Operation completed!!
+2020-02-15/19:06:00		Extracting csv file from table
+2020-02-15/19:06:01		Start of Prediction
+2020-02-15/19:06:01		Entered the get_data method of the Data_Getter class
+2020-02-15/19:06:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-15/19:06:01		Entered the is_null_present method of the Preprocessor class
+2020-02-15/19:06:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-15/19:06:01		Entered the load_model method of the File_Operation class
+2020-02-15/19:06:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/19:06:01		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/19:06:01		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/19:06:01		Entered the load_model method of the File_Operation class
+2020-02-15/19:06:01		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/19:06:02		End of Prediction
+2020-04-17/20:26:40		Start of Validation on files for prediction!!
+2020-04-17/20:29:08		Start of Validation on files for prediction!!
+2020-04-17/20:29:33		Start of Validation on files for prediction!!
+2020-04-17/20:22:58		Start of Validation on files for prediction!!
+2020-04-17/20:22:58		Raw Data Validation Complete!!
+2020-04-17/20:22:58		Starting Data Transforamtion!!
+2020-04-17/20:22:59		DataTransformation Completed!!!
+2020-04-17/20:22:59		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-04-17/20:23:00		Table creation Completed!!
+2020-04-17/20:23:00		Insertion of Data into Table started!!!!
+2020-04-17/20:51:32		Insertion in Table completed!!!
+2020-04-17/20:51:32		Deleting Good Data Folder!!!
+2020-04-17/20:51:32		Good_Data folder deleted!!!
+2020-04-17/20:51:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/18:44:18		Start of Validation on files for prediction!!
+2022-02-15/18:44:23		Start of Validation on files for prediction!!
+2022-02-15/18:44:24		Raw Data Validation Complete!!
+2022-02-15/18:44:24		Starting Data Transforamtion!!
+2022-02-15/18:44:25		DataTransformation Completed!!!
+2022-02-15/18:44:25		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-15/18:44:25		Table creation Completed!!
+2022-02-15/18:44:25		Insertion of Data into Table started!!!!
+2022-02-15/18:45:25		Insertion in Table completed!!!
+2022-02-15/18:45:25		Deleting Good Data Folder!!!
+2022-02-15/18:45:25		Good_Data folder deleted!!!
+2022-02-15/18:45:25		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/18:45:25		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-15/18:45:25		Validation Operation completed!!
+2022-02-15/18:45:25		Extracting csv file from table
+2022-02-15/18:45:25		Start of Prediction
+2022-02-15/18:45:25		Entered the get_data method of the Data_Getter class
+2022-02-15/18:45:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-15/18:45:26		Entered the is_null_present method of the Preprocessor class
+2022-02-15/18:45:26		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-15/18:45:26		Entered the load_model method of the File_Operation class
+2022-02-15/18:45:26		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:45:26		Entered the find_correct_model_file method of the File_Operation class
+2022-02-15/18:45:26		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-15/18:45:26		Entered the load_model method of the File_Operation class
+2022-02-15/18:45:26		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:45:29		End of Prediction
+2022-02-15/18:46:31		Start of Validation on files for prediction!!
+2022-02-15/18:46:32		Start of Validation on files for prediction!!
+2022-02-15/18:49:20		Start of Validation on files for prediction!!
+2022-02-15/18:49:21		Raw Data Validation Complete!!
+2022-02-15/18:49:21		Starting Data Transforamtion!!
+2022-02-15/18:49:22		DataTransformation Completed!!!
+2022-02-15/18:49:22		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-15/18:49:22		Table creation Completed!!
+2022-02-15/18:49:22		Insertion of Data into Table started!!!!
+2022-02-15/18:50:26		Insertion in Table completed!!!
+2022-02-15/18:50:26		Deleting Good Data Folder!!!
+2022-02-15/18:50:26		Good_Data folder deleted!!!
+2022-02-15/18:50:26		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/18:50:26		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-15/18:50:26		Validation Operation completed!!
+2022-02-15/18:50:26		Extracting csv file from table
+2022-02-15/18:50:27		Start of Prediction
+2022-02-15/18:50:27		Entered the get_data method of the Data_Getter class
+2022-02-15/18:50:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-15/18:50:27		Entered the is_null_present method of the Preprocessor class
+2022-02-15/18:50:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-15/18:50:27		Entered the load_model method of the File_Operation class
+2022-02-15/18:50:27		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:50:27		Entered the find_correct_model_file method of the File_Operation class
+2022-02-15/18:50:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-15/18:50:27		Entered the load_model method of the File_Operation class
+2022-02-15/18:50:27		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:50:28		End of Prediction
+2022-02-15/18:51:10		Start of Validation on files for prediction!!
+2022-02-15/18:51:11		Raw Data Validation Complete!!
+2022-02-15/18:51:11		Starting Data Transforamtion!!
+2022-02-15/18:51:11		DataTransformation Completed!!!
+2022-02-15/18:51:11		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-15/18:51:11		Table creation Completed!!
+2022-02-15/18:51:11		Insertion of Data into Table started!!!!
+2022-02-15/18:51:39		Insertion in Table completed!!!
+2022-02-15/18:51:39		Deleting Good Data Folder!!!
+2022-02-15/18:51:39		Good_Data folder deleted!!!
+2022-02-15/18:51:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/18:51:39		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-15/18:51:39		Validation Operation completed!!
+2022-02-15/18:51:39		Extracting csv file from table
+2022-02-15/18:51:39		Start of Prediction
+2022-02-15/18:51:39		Entered the get_data method of the Data_Getter class
+2022-02-15/18:51:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-15/18:51:39		Entered the is_null_present method of the Preprocessor class
+2022-02-15/18:51:39		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-15/18:51:39		Entered the load_model method of the File_Operation class
+2022-02-15/18:51:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:51:39		Entered the find_correct_model_file method of the File_Operation class
+2022-02-15/18:51:39		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-15/18:51:39		Entered the load_model method of the File_Operation class
+2022-02-15/18:51:39		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:51:40		End of Prediction
+2022-02-15/18:59:07		Start of Validation on files for prediction!!
+2022-02-15/18:59:08		Raw Data Validation Complete!!
+2022-02-15/18:59:08		Starting Data Transforamtion!!
+2022-02-15/18:59:09		DataTransformation Completed!!!
+2022-02-15/18:59:09		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-15/18:59:09		Table creation Completed!!
+2022-02-15/18:59:09		Insertion of Data into Table started!!!!
+2022-02-15/18:59:51		Insertion in Table completed!!!
+2022-02-15/18:59:51		Deleting Good Data Folder!!!
+2022-02-15/18:59:51		Good_Data folder deleted!!!
+2022-02-15/18:59:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/18:59:51		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-15/18:59:51		Validation Operation completed!!
+2022-02-15/18:59:51		Extracting csv file from table
+2022-02-15/18:59:51		Start of Prediction
+2022-02-15/18:59:51		Entered the get_data method of the Data_Getter class
+2022-02-15/18:59:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-15/18:59:51		Entered the is_null_present method of the Preprocessor class
+2022-02-15/18:59:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-15/18:59:51		Entered the load_model method of the File_Operation class
+2022-02-15/18:59:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:59:51		Entered the find_correct_model_file method of the File_Operation class
+2022-02-15/18:59:51		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-15/18:59:51		Entered the load_model method of the File_Operation class
+2022-02-15/18:59:51		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/18:59:53		End of Prediction
+2022-02-15/22:36:22		Start of Validation on files for prediction!!
+2022-02-15/22:36:24		Raw Data Validation Complete!!
+2022-02-15/22:36:24		Starting Data Transforamtion!!
+2022-02-15/22:36:24		DataTransformation Completed!!!
+2022-02-15/22:36:24		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-15/22:36:25		Table creation Completed!!
+2022-02-15/22:36:25		Insertion of Data into Table started!!!!
+2022-02-15/22:37:20		Insertion in Table completed!!!
+2022-02-15/22:37:20		Deleting Good Data Folder!!!
+2022-02-15/22:37:20		Good_Data folder deleted!!!
+2022-02-15/22:37:20		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-15/22:37:20		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-15/22:37:20		Validation Operation completed!!
+2022-02-15/22:37:20		Extracting csv file from table
+2022-02-15/22:37:21		Start of Prediction
+2022-02-15/22:37:21		Entered the get_data method of the Data_Getter class
+2022-02-15/22:37:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-15/22:37:21		Entered the is_null_present method of the Preprocessor class
+2022-02-15/22:37:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-15/22:37:21		Entered the load_model method of the File_Operation class
+2022-02-15/22:37:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/22:37:21		Entered the find_correct_model_file method of the File_Operation class
+2022-02-15/22:37:21		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-15/22:37:21		Entered the load_model method of the File_Operation class
+2022-02-15/22:37:21		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-15/22:37:23		End of Prediction
+2022-02-26/01:06:07		Start of Validation on files for prediction!!
+2022-02-26/01:06:08		Raw Data Validation Complete!!
+2022-02-26/01:06:08		Starting Data Transforamtion!!
+2022-02-26/01:06:08		DataTransformation Completed!!!
+2022-02-26/01:06:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-26/01:06:08		Table creation Completed!!
+2022-02-26/01:06:08		Insertion of Data into Table started!!!!
+2022-02-26/01:06:27		Insertion in Table completed!!!
+2022-02-26/01:06:27		Deleting Good Data Folder!!!
+2022-02-26/01:06:27		Good_Data folder deleted!!!
+2022-02-26/01:06:27		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-26/01:06:27		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-26/01:06:27		Validation Operation completed!!
+2022-02-26/01:06:27		Extracting csv file from table
+2022-02-26/01:06:27		Start of Prediction
+2022-02-26/01:06:27		Entered the get_data method of the Data_Getter class
+2022-02-26/01:06:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-26/01:06:27		Entered the is_null_present method of the Preprocessor class
+2022-02-26/01:06:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-26/01:06:27		Entered the load_model method of the File_Operation class
+2022-02-26/01:06:27		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-26/01:06:27		Entered the find_correct_model_file method of the File_Operation class
+2022-02-26/01:06:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-26/01:06:27		Entered the load_model method of the File_Operation class
+2022-02-26/01:06:27		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-26/01:06:29		End of Prediction
+2022-02-26/01:07:47		Start of Validation on files for prediction!!
+2022-02-26/01:07:48		Raw Data Validation Complete!!
+2022-02-26/01:07:48		Starting Data Transforamtion!!
+2022-02-26/01:07:48		DataTransformation Completed!!!
+2022-02-26/01:07:48		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-02-26/01:07:48		Table creation Completed!!
+2022-02-26/01:07:48		Insertion of Data into Table started!!!!
+2022-02-26/01:08:06		Insertion in Table completed!!!
+2022-02-26/01:08:06		Deleting Good Data Folder!!!
+2022-02-26/01:08:06		Good_Data folder deleted!!!
+2022-02-26/01:08:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-02-26/01:08:06		Bad files moved to archive!! Bad folder Deleted!!
+2022-02-26/01:08:06		Validation Operation completed!!
+2022-02-26/01:08:06		Extracting csv file from table
+2022-02-26/01:08:06		Start of Prediction
+2022-02-26/01:08:06		Entered the get_data method of the Data_Getter class
+2022-02-26/01:08:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-02-26/01:08:06		Entered the is_null_present method of the Preprocessor class
+2022-02-26/01:08:06		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-02-26/01:08:06		Entered the load_model method of the File_Operation class
+2022-02-26/01:08:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-02-26/01:08:06		Entered the find_correct_model_file method of the File_Operation class
+2022-02-26/01:08:06		Exited the find_correct_model_file method of the Model_Finder class.
+2022-02-26/01:08:06		Entered the load_model method of the File_Operation class
+2022-02-26/01:08:06		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-02-26/01:08:06		End of Prediction
+2022-03-04/21:05:34		Start of Validation on files for prediction!!
+2022-03-04/21:05:34		Raw Data Validation Complete!!
+2022-03-04/21:05:34		Starting Data Transforamtion!!
+2022-03-04/21:05:34		DataTransformation Completed!!!
+2022-03-04/21:05:34		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-04/21:05:35		Table creation Completed!!
+2022-03-04/21:05:35		Insertion of Data into Table started!!!!
+2022-03-04/21:05:58		Insertion in Table completed!!!
+2022-03-04/21:05:58		Deleting Good Data Folder!!!
+2022-03-04/21:05:58		Good_Data folder deleted!!!
+2022-03-04/21:05:58		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-04/21:05:58		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-04/21:05:58		Validation Operation completed!!
+2022-03-04/21:05:58		Extracting csv file from table
+2022-03-04/21:05:58		Start of Prediction
+2022-03-04/21:05:58		Entered the get_data method of the Data_Getter class
+2022-03-04/21:05:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-04/21:05:58		Entered the is_null_present method of the Preprocessor class
+2022-03-04/21:05:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-04/21:05:58		Entered the load_model method of the File_Operation class
+2022-03-04/21:05:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-04/21:05:58		Entered the find_correct_model_file method of the File_Operation class
+2022-03-04/21:05:58		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-04/21:05:58		Entered the load_model method of the File_Operation class
+2022-03-04/21:05:58		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-03-04/21:06:00		End of Prediction
+2022-03-04/21:11:57		Start of Validation on files for prediction!!
+2022-03-04/21:11:58		Raw Data Validation Complete!!
+2022-03-04/21:11:58		Starting Data Transforamtion!!
+2022-03-04/21:11:58		DataTransformation Completed!!!
+2022-03-04/21:11:58		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-04/21:11:58		Table creation Completed!!
+2022-03-04/21:11:58		Insertion of Data into Table started!!!!
+2022-03-04/21:12:18		Insertion in Table completed!!!
+2022-03-04/21:12:18		Deleting Good Data Folder!!!
+2022-03-04/21:12:18		Good_Data folder deleted!!!
+2022-03-04/21:12:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-04/21:12:18		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-04/21:12:18		Validation Operation completed!!
+2022-03-04/21:12:18		Extracting csv file from table
+2022-03-04/21:12:18		Start of Prediction
+2022-03-04/21:12:18		Entered the get_data method of the Data_Getter class
+2022-03-04/21:12:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-04/21:12:18		Entered the is_null_present method of the Preprocessor class
+2022-03-04/21:12:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-04/21:12:18		Entered the load_model method of the File_Operation class
+2022-03-04/21:12:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-04/21:12:18		Entered the find_correct_model_file method of the File_Operation class
+2022-03-04/21:12:18		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-04/21:12:18		Entered the load_model method of the File_Operation class
+2022-03-04/21:12:18		Model File XGBoost1 loaded. Exited the load_model method of the Model_Finder class
+2022-03-04/21:12:19		End of Prediction
